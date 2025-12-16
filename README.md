@@ -9,6 +9,13 @@ Designed for **Atari Falcon / TT / ST** running **FreeMiNT**.
 
 ---
 
+## 🎥 Demo Video
+
+▶️ **YouTube demonstration:**  
+https://youtu.be/srewT4SZ5l0
+
+---
+
 ## ✨ Features
 
 - 📁 **Web-based file management**
@@ -62,8 +69,6 @@ This project aims to:
 ---
 
 ## ⚙️ Building
-
-Example build command:
 
 ```sh
 make
